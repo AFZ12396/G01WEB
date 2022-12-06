@@ -1,0 +1,21 @@
+{
+  "name": "g01web",
+  "version": "1.0.0",
+  "description": "repositorio del curso G01WEB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AFZ12396/G01WEB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type":"module",
+  "bugs": {
+    "url": "https://github.com/AFZ12396/G01WEB/issues"
+  },
+  "homepage": "https://github.com/AFZ12396/G01WEB#readme"
+}
